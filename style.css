@@ -1,0 +1,11 @@
+body{
+  background-color: whitesmoke;
+  color: black;
+}
+header{
+  display: grid;
+  grid-template-columns: 10fr 1fr;
+}
+figure img{
+  width: 900%;
+}
